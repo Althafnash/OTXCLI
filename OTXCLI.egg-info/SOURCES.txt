@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+OTXCLI.egg-info/PKG-INFO
+OTXCLI.egg-info/SOURCES.txt
+OTXCLI.egg-info/dependency_links.txt
+OTXCLI.egg-info/top_level.txt

@@ -1,6 +1,6 @@
 from OTXv2 import OTXv2
 import IndicatorTypes
-from Utils import write_to_file
+from .Utils import write_to_file
 import os 
 
 class IP_Scan():
